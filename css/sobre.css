@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Oswald', sans-serif;
+    color: #1e1e2a;
+}
+
+.inf{
+    text-align: center;
+    background-color: aquamarine;
+    margin: 0 auto;
+    width: 50%;
+    border-top: 2px solid #1e1e2a;
+}
+
+.inf .basica{
+    border-top: 2px solid #1e1e2a;
+}
+
+.inf .prof{
+    border-top: 2px solid #1e1e2a;
+}
+
+.inf .educacao{
+    border-top: 2px solid #1e1e2a;
+}
